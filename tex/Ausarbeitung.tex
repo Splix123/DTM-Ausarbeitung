@@ -84,6 +84,63 @@ Lorem Ipsum
 \subsection{Zukunftsperspektiven: Die Stadt der Zukunft}
 Lorem Ipsum
 
+
+% Cheatsheet (Hilfskapitel)
+% -------------------------------------------------------
+\section{Cheatsheet}
+\subsection{Textformatierungen}
+\begin{itemize}
+  \item \texttt{\textbackslash textbf\{fett\}}: \textbf{Fettgedruckter Text.}
+  \item \texttt{\textbackslash textit\{kursiv\}}: \textit{Kursiver Text.}
+  \item \texttt{\textbackslash underline\{unterstrichen\}}: \underline{Unterstrichener Text.}
+  \item \texttt{\textbackslash emph\{betont\}}: \emph{Betonter Text.}
+\end{itemize}
+
+\subsection{Zitate}
+Zitate werden mit \verb|\autocite{key}| geschrieben. 
+Der Key ist das was als erstes in den geschweiften klammern steht.\\
+Bsp.: \verb|\autocite{urbach_digitalization_2021}| \\
+Der Rest wird automatisch gemacht. \autocite{urbach_digitalization_2021}
+
+\subsection{Abkürzungen}
+Abkürzungen werden mit \verb|\ac{kürzel}| geschrieben und müssen vor benutzung einmal am unteren Ende des dokuments mit \verb|\acro{Kürzel}{Lange version}| beschrieben werden. \\
+Bsp.: \verb|\ac{dT}| \text{→} im Text \\\\
+\verb|\begin{acronym}[IEEE]| \\
+\verb|\acro{dT}{digitale Transformation}| \text{→} Unten im Dokument\\
+\verb|\end{acronym}| \\\\
+So wird die Abkürzung bei der ersten benutzung ausgeschrieben und dannach als richtige Abkürzung benutzt. \\
+\ac{dT} \\
+\ac{dT}
+
+\subsection{Listen}
+\begin{itemize}
+    \item Unnummerierte Liste:
+    \begin{verbatim}
+    \begin{itemize}
+        \item Erster Punkt
+        \item Zweiter Punkt
+    \end{itemize}
+    \end{verbatim}
+    \item Nummerierte Liste:
+    \begin{verbatim}
+    \begin{enumerate}
+        \item Erster Punkt
+        \item Zweiter Punkt
+    \end{enumerate}
+    \end{verbatim}
+\end{itemize}
+
+\subsection{Bilder einfügen}
+\texttt{\textbackslash includegraphics\{bild.png\}} \\
+Bild in den image Ordner packen.
+
+\subsection{Links}
+\begin{itemize}
+    \item Link zum clicken mit custom Text: \texttt{\textbackslash href\{URL\}\{Text\}}.
+    \item Direkte URL: \texttt{\textbackslash url\{URL\}}.
+\end{itemize}
+
+
 % --------------------------------------------------------------------
 \section*{Abkürzungen}
 \addcontentsline{toc}{section}{Abkürzungen}
@@ -91,9 +148,8 @@ Lorem Ipsum
 % Die längste Abkürzung wird in die eckigen Klammern
 % bei \begin{acronym} geschrieben, um einen hässlichen
 % Umbruch zu verhindern
-% Sie müssen die Abkürzungen selbst alphabetisch sortieren!
 \begin{acronym}[IEEE]
-\acro{A2A}{Application-to-Application}
+\acro{dT}{digitale Transformation}
 \end{acronym}
 
 % Literaturverzeichnis
