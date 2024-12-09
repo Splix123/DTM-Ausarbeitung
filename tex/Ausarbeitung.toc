@@ -1,9 +1,9 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{2}{section.1}%
 \contentsline {section}{\numberline {2}Grundlagen und Kontext}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Was ist Digitale Transformation}{2}{subsection.3}%
-\contentsline {subsection}{\numberline {2.2}Urbanisierung: Definition und Daten}{2}{subsection.6}%
-\contentsline {subsubsection}{\numberline {2.2.1}Urbanisierung als globaler Trend}{3}{subsubsection.9}%
+\contentsline {subsection}{\numberline {2.1}Was ist digitale Transformation?}{2}{subsection.3}%
+\contentsline {subsection}{\numberline {2.2}Urbanisierung: Definition und Daten}{3}{subsection.6}%
+\contentsline {subsubsection}{\numberline {2.2.1}Urbanisierung als globaler Trend}{4}{subsubsection.9}%
 \contentsline {subsubsection}{\numberline {2.2.2}Herausforderungen der Urbanisierung}{4}{subsubsection.10}%
 \contentsline {subsubsection}{\numberline {2.2.3}Chancen der Urbanisierung}{4}{subsubsection.11}%
 \contentsline {subsection}{\numberline {2.3}Wie hängen Urbanisierung und digitale Transformation zusammen?}{5}{subsection.12}%
@@ -24,11 +24,11 @@
 \contentsline {subsubsection}{\numberline {3.2.4}Digitale Plattformen als Lösung für urbane Bedürfnisse}{7}{subsubsection.27}%
 \contentsline {subsubsection}{\numberline {3.2.5}Veränderung von Arbeits- und Wirtschaftsmustern}{8}{subsubsection.28}%
 \contentsline {subsubsection}{\numberline {3.2.6} Verbesserte städtische Dienstleistungen}{8}{subsubsection.29}%
-\contentsline {subsubsection}{\numberline {3.2.7}Bürgerzentrierte Stadtplanung}{8}{subsubsection.30}%
+\contentsline {subsubsection}{\numberline {3.2.7}Bürger zentrierte Stadtplanung}{8}{subsubsection.30}%
 \contentsline {subsubsection}{\numberline {3.2.8}Datengetriebene Umweltpolitik}{8}{subsubsection.32}%
 \contentsline {subsubsection}{\numberline {3.2.9}Kreislaufwirtschaft und Abfallmanagement}{8}{subsubsection.33}%
 \contentsline {subsubsection}{\numberline {3.2.10}Schlussfolgerung}{8}{subsubsection.34}%
-\contentsline {subsection}{\numberline {3.3}Wie Digitale Transformation die Urbanisierung beschleunigt}{9}{subsection.35}%
+\contentsline {subsection}{\numberline {3.3}Wie digitale Transformation die Urbanisierung beschleunigt}{9}{subsection.35}%
 \contentsline {subsubsection}{\numberline {3.3.1}Verkehr und Mobilität}{9}{subsubsection.36}%
 \contentsline {subsubsection}{\numberline {3.3.2}Wohnraum und Urbanisierung}{9}{subsubsection.37}%
 \contentsline {subsubsection}{\numberline {3.3.3}Umwelt- und Ressourcenprobleme}{9}{subsubsection.39}%

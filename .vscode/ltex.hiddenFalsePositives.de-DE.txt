@@ -1,0 +1,29 @@
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QShiner, Nicole Keller, Joshua Hochschule Mannheim Fakultät für Informatik Paul-Wittsack-Str. 10, 68163 Mannheim Rühm, Moritz\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Im Mittelpunkt der digitalen Transformation stehen mehrere Schlüsseltechnologien, die diesen Wandel ermöglichen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Diese Technologie unterstützt intelligente Systeme, wie z.B. Verkehrsampeln, die sich an Verkehrsaufkommen anpassen, oder Energienetze, die den Strom effizient und bedarfsgerecht verteilen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Diese Technologien wirken zusammen, um viele mit der Urbanisierung verbundene Herausforderungen zu bewältigen und die Städte effizienter, nachhaltiger und lebenswerter zu machen.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QUrbane Bevölkerung Weltweit von 1950 bis 2050 nach Regionrafik \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QUrbane Bevölkerung weltweit von 1950 bis 2050 nach Regionrafik \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QUrbanisierungstrends sind je nach Region sehr unterschiedlich.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Ein weiterer auffälliger Aspekt der Urbanisierung ist die Zunahme von Megastädten, d. h. Städten mit mehr als 10 Millionen Einwohnern.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Die Urbanisierung ist jedoch nicht auf diese großen Städte beschränkt.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Dieses Gleichgewicht zwischen Wachstum und Nachhaltigkeit wird in den kommenden Jahrzehnten ein entscheidender Aspekt der Urbanisierung sein.\\E$"}
+{"rule":"DOPPELTE_SATZZEICHEN","sentence":"^\\QWas ist digitale Transformation?.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Diese Länder stehen oft vor der doppelten Herausforderung, neue städtische Infrastrukturen zu bauen und gleichzeitig bestehende Mängel zu bewältigen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q In Mumbai beispielsweise hat der Mangel an erschwinglichem Wohnraum zur Ausbreitung selbst errichteten Siedlungen geführt, in denen Millionen von Menschen ohne Zugang zu sauberem Wasser oder einem angemessenen Abwassersystem leben.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Dieser Mangel an Infrastruktur beeinträchtigt nicht nur die Lebensqualität, sondern schränkt auch das wirtschaftliche Potenzial ein und verschärft die Gesundheitsrisiken.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Die Auswirkungen auf die Umwelt sind in Städten wie Peking, wo die Luftverschmutzung durch Fahrzeuge und Fabriken ein ernsthaftes Risiko für die öffentliche Gesundheit darstellt, besonders deutlich zu spüren.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Soziale Ungleichheit ist ein weiteres kritisches Thema, das durch die Urbanisierung verschärft wird.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QDiese Umweltbelastungen erfordern innovative und kooperative Ansätze für die Stadtplanung und Nachhaltigkeitsinitiativen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q So können beispielsweise Smart-City-Technologien die Effizienz und Lebensqualität verbessern.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Die städtische Dichte kann, wenn sie richtig gesteuert wird, auch ein nachhaltigeres Leben ermöglichen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Letztlich sind die Chancen, die die Urbanisierung bietet, beträchtlich, aber sie hängen von einer sorgfältigen Planung und Steuerung ab.\\E$"}
+{"rule":"DOPPELTE_SATZZEICHEN","sentence":"^\\QWie hängen Urbanisierung und digitale Transformation zusammen?.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Darüber hinaus fördern E-Governance-Plattformen eine größere Transparenz und bürgerschaftliches Engagement.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QPhänomene wie die Urban Heat Islands, bei denen sich Städte aufgrund der dichten Bebauung und fehlender Grünflächen stärker aufheizen, beeinflussen nicht nur das Mikroklima negativ sondern gefährden ebenfalls die Gesundheit der Bewohner.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QPhänomene wie die Urban Heat Islands, bei denen sich Städte aufgrund der dichten Bebauung und fehlender Grünflächen stärker aufheizen, beeinflussen nicht nur das Mikroklima negativ, sondern gefährden ebenfalls die Gesundheit der Bewohner.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QInfrastrukturüberlastung.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QZudem fördern Apps wie Ökotracker das Bewusstsein und die aktive Beteiligung der Bürger an nachhaltigem Handeln.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Diese beiden Trends sind eng miteinander verknüpft - die Urbanisierung erhöht den Bedarf an Innovationen, und digitale Technologien helfen, die Herausforderungen der Städte zu lösen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Auch stellen die Anforderungen an Datenspeicherung und -verarbeitung eine Herausforderung dar, da städtische Infrastrukturen regelmäßig große Mengen an Daten generieren.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Zudem sind politische Hürden und langsame Entscheidungsprozesse oft Hindernisse für eine zügige Implementierung digitaler Stadtentwicklung.\\E$"}
