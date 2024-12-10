@@ -27,3 +27,5 @@
 {"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Diese beiden Trends sind eng miteinander verknüpft - die Urbanisierung erhöht den Bedarf an Innovationen, und digitale Technologien helfen, die Herausforderungen der Städte zu lösen.\\E$"}
 {"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Auch stellen die Anforderungen an Datenspeicherung und -verarbeitung eine Herausforderung dar, da städtische Infrastrukturen regelmäßig große Mengen an Daten generieren.\\E$"}
 {"rule":"DE_CASE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Zudem sind politische Hürden und langsame Entscheidungsprozesse oft Hindernisse für eine zügige Implementierung digitaler Stadtentwicklung.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QDieses System hat dazu beigetragen, die Recyclingraten erheblich zu steigern und die Deponielasten zu reduzieren.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QBIM Building Information Modeling dT digitale Transformation GIS Geoinformationssysteme IoT Internet of Things KI künstliche Intelligenz UN United Nations\\E$"}
