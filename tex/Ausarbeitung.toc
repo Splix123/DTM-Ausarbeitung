@@ -1,48 +1,55 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{2}{section.1}%
-\contentsline {section}{\numberline {2}Grundlagen und Kontext}{3}{section.4}%
-\contentsline {subsection}{\numberline {2.1}Was ist digitale Transformation?}{3}{subsection.5}%
-\contentsline {subsection}{\numberline {2.2}Urbanisierung: Definition und Daten}{3}{subsection.6}%
-\contentsline {subsubsection}{\numberline {2.2.1}Urbanisierung als globaler Trend}{4}{subsubsection.9}%
-\contentsline {subsubsection}{\numberline {2.2.2}Herausforderungen der Urbanisierung}{4}{subsubsection.10}%
-\contentsline {subsubsection}{\numberline {2.2.3}Chancen der Urbanisierung}{5}{subsubsection.11}%
-\contentsline {subsection}{\numberline {2.3}Wie hängen Urbanisierung und digitale Transformation zusammen?}{5}{subsection.12}%
-\contentsline {section}{\numberline {3}Wechselwirkungen zwischen Urbanisierung und digitaler Transformation}{6}{section.13}%
-\contentsline {subsection}{\numberline {3.1}Urbane Herausforderungen, die durch digitale Transformation bewältigt werden können}{6}{subsection.14}%
-\contentsline {subsubsection}{\numberline {3.1.1}Verkehr und Mobilität}{6}{subsubsection.15}%
-\contentsline {subsubsection}{\numberline {3.1.2}Wohnraum und Urbanisierung}{6}{subsubsection.16}%
-\contentsline {subsubsection}{\numberline {3.1.3}Umwelt- und Ressourcenprobleme}{7}{subsubsection.17}%
-\contentsline {subsubsection}{\numberline {3.1.4}Soziale Ungleichheit}{7}{subsubsection.18}%
-\contentsline {subsubsection}{\numberline {3.1.5}Infrastrukturüberlastung}{7}{subsubsection.19}%
-\contentsline {subsubsection}{\numberline {3.1.6}Gesundheit und Lebensqualität}{7}{subsubsection.20}%
-\contentsline {subsubsection}{\numberline {3.1.7}Sicherheit und Überwachung}{7}{subsubsection.21}%
-\contentsline {subsubsection}{\numberline {3.1.8}Schlussfolgerung}{7}{subsubsection.22}%
-\contentsline {subsection}{\numberline {3.2}Warum Urbanisierung die digitale Transformation beschleunigt}{8}{subsection.23}%
-\contentsline {subsubsection}{\numberline {3.2.1}Effizienz durch Smart Cities}{8}{subsubsection.24}%
-\contentsline {subsubsection}{\numberline {3.2.2}Nachhaltigkeit durch Ressourcennutzung}{8}{subsubsection.25}%
-\contentsline {subsubsection}{\numberline {3.2.3}Veränderung von Wirtschaft und Arbeitswelt}{8}{subsubsection.26}%
-\contentsline {subsubsection}{\numberline {3.2.4}Digitale Plattformen als Lösung für urbane Bedürfnisse}{8}{subsubsection.27}%
-\contentsline {subsubsection}{\numberline {3.2.5}Veränderung von Arbeits- und Wirtschaftsmustern}{8}{subsubsection.28}%
-\contentsline {subsubsection}{\numberline {3.2.6} Verbesserte städtische Dienstleistungen}{9}{subsubsection.29}%
-\contentsline {subsubsection}{\numberline {3.2.7}Bürger zentrierte Stadtplanung}{9}{subsubsection.30}%
-\contentsline {subsubsection}{\numberline {3.2.8}Datengetriebene Umweltpolitik}{9}{subsubsection.32}%
-\contentsline {subsubsection}{\numberline {3.2.9}Kreislaufwirtschaft und Abfallmanagement}{9}{subsubsection.33}%
-\contentsline {subsubsection}{\numberline {3.2.10}Schlussfolgerung}{9}{subsubsection.34}%
-\contentsline {subsection}{\numberline {3.3}Wie digitale Transformation die Urbanisierung beschleunigt}{9}{subsection.35}%
-\contentsline {subsubsection}{\numberline {3.3.1}Verkehr und Mobilität}{9}{subsubsection.36}%
-\contentsline {subsubsection}{\numberline {3.3.2}Wohnraum und Urbanisierung}{9}{subsubsection.37}%
-\contentsline {subsubsection}{\numberline {3.3.3}Umwelt- und Ressourcenprobleme}{10}{subsubsection.39}%
-\contentsline {subsubsection}{\numberline {3.3.4}Soziale Ungleichheit}{10}{subsubsection.40}%
-\contentsline {subsubsection}{\numberline {3.3.5}Infrastrukturüberlastung}{10}{subsubsection.41}%
-\contentsline {subsubsection}{\numberline {3.3.6}Gesundheit und Lebensqualität}{10}{subsubsection.42}%
-\contentsline {subsubsection}{\numberline {3.3.7}Sicherheit und Überwachung}{10}{subsubsection.43}%
-\contentsline {subsubsection}{\numberline {3.3.8}Ergebnis}{10}{subsubsection.44}%
-\contentsline {subsection}{\numberline {3.4}Grenzen, Risiken und ethische Aspekte der digitalen Stadtentwicklung}{10}{subsection.45}%
-\contentsline {subsubsection}{\numberline {3.4.1}Grenzen der digitalen Stadtentwicklung}{10}{subsubsection.46}%
-\contentsline {subsubsection}{\numberline {3.4.2}Risiken der digitalen Stadtentwicklung}{11}{subsubsection.47}%
-\contentsline {subsubsection}{\numberline {3.4.3}Ethische Aspekte der digitalen Stadtentwicklung}{11}{subsubsection.48}%
-\contentsline {section}{\numberline {4}Digitale Transformation als Lösung für urbane Herausforderungen}{11}{section.49}%
-\contentsline {subsection}{\numberline {4.1}Fallstudien und Praxisbeispiele}{11}{subsection.50}%
-\contentsline {subsection}{\numberline {4.2}Zukunftsperspektiven: Die Stadt der Zukunft}{12}{subsection.51}%
-\contentsline {section}{Abkürzungen}{12}{section*.52}%
-\contentsline {section}{Literatur}{12}{section*.52}%
+\contentsline {section}{\numberline {2}Grundlagen und Kontext}{3}{section.5}%
+\contentsline {subsection}{\numberline {2.1}Was ist digitale Transformation?}{3}{subsection.6}%
+\contentsline {subsection}{\numberline {2.2}Urbanisierung: Definition und Daten}{3}{subsection.7}%
+\contentsline {subsubsection}{\numberline {2.2.1}Urbanisierung als globaler Trend}{4}{subsubsection.10}%
+\contentsline {subsubsection}{\numberline {2.2.2}Herausforderungen der Urbanisierung}{5}{subsubsection.11}%
+\contentsline {subsubsection}{\numberline {2.2.3}Chancen der Urbanisierung}{5}{subsubsection.12}%
+\contentsline {subsection}{\numberline {2.3}Wie hängen Urbanisierung und digitale Transformation zusammen?}{6}{subsection.13}%
+\contentsline {section}{\numberline {3}Wechselwirkungen zwischen Urbanisierung und digitaler Transformation}{6}{section.14}%
+\contentsline {subsection}{\numberline {3.1}Urbane Herausforderungen, die durch digitale Transformation bewältigt werden können}{6}{subsection.15}%
+\contentsline {subsubsection}{\numberline {3.1.1}Verkehr und Mobilität}{6}{subsubsection.16}%
+\contentsline {subsubsection}{\numberline {3.1.2}Wohnraum und Urbanisierung}{7}{subsubsection.17}%
+\contentsline {subsubsection}{\numberline {3.1.3}Umwelt- und Ressourcenprobleme}{7}{subsubsection.18}%
+\contentsline {subsubsection}{\numberline {3.1.4}Soziale Ungleichheit}{7}{subsubsection.19}%
+\contentsline {subsubsection}{\numberline {3.1.5}Infrastrukturüberlastung}{7}{subsubsection.20}%
+\contentsline {subsubsection}{\numberline {3.1.6}Gesundheit und Lebensqualität}{7}{subsubsection.21}%
+\contentsline {subsubsection}{\numberline {3.1.7}Sicherheit und Überwachung}{7}{subsubsection.22}%
+\contentsline {subsubsection}{\numberline {3.1.8}Schlussfolgerung}{8}{subsubsection.23}%
+\contentsline {subsection}{\numberline {3.2}Warum Urbanisierung die digitale Transformation beschleunigt}{8}{subsection.24}%
+\contentsline {subsubsection}{\numberline {3.2.1}Effizienz durch Smart Cities}{8}{subsubsection.25}%
+\contentsline {subsubsection}{\numberline {3.2.2}Nachhaltigkeit durch Ressourcennutzung}{8}{subsubsection.26}%
+\contentsline {subsubsection}{\numberline {3.2.3}Veränderung von Wirtschaft und Arbeitswelt}{8}{subsubsection.27}%
+\contentsline {subsubsection}{\numberline {3.2.4}Digitale Plattformen als Lösung für urbane Bedürfnisse}{8}{subsubsection.28}%
+\contentsline {subsubsection}{\numberline {3.2.5}Veränderung von Arbeits- und Wirtschaftsmustern}{8}{subsubsection.29}%
+\contentsline {subsubsection}{\numberline {3.2.6} Verbesserte städtische Dienstleistungen}{9}{subsubsection.30}%
+\contentsline {subsubsection}{\numberline {3.2.7}Bürger zentrierte Stadtplanung}{9}{subsubsection.31}%
+\contentsline {subsubsection}{\numberline {3.2.8}Datengetriebene Umweltpolitik}{9}{subsubsection.33}%
+\contentsline {subsubsection}{\numberline {3.2.9}Kreislaufwirtschaft und Abfallmanagement}{9}{subsubsection.34}%
+\contentsline {subsubsection}{\numberline {3.2.10}Schlussfolgerung}{9}{subsubsection.35}%
+\contentsline {subsection}{\numberline {3.3}Wie digitale Transformation die Urbanisierung beschleunigt}{9}{subsection.36}%
+\contentsline {subsubsection}{\numberline {3.3.1}Verkehr und Mobilität}{9}{subsubsection.37}%
+\contentsline {subsubsection}{\numberline {3.3.2}Wohnraum und Urbanisierung}{10}{subsubsection.38}%
+\contentsline {subsubsection}{\numberline {3.3.3}Umwelt- und Ressourcenprobleme}{10}{subsubsection.40}%
+\contentsline {subsubsection}{\numberline {3.3.4}Soziale Ungleichheit}{10}{subsubsection.41}%
+\contentsline {subsubsection}{\numberline {3.3.5}Infrastrukturüberlastung}{10}{subsubsection.42}%
+\contentsline {subsubsection}{\numberline {3.3.6}Gesundheit und Lebensqualität}{10}{subsubsection.43}%
+\contentsline {subsubsection}{\numberline {3.3.7}Sicherheit und Überwachung}{10}{subsubsection.44}%
+\contentsline {subsubsection}{\numberline {3.3.8}Ergebnis}{10}{subsubsection.45}%
+\contentsline {subsection}{\numberline {3.4}Grenzen, Risiken und ethische Aspekte der digitalen Stadtentwicklung}{10}{subsection.46}%
+\contentsline {subsubsection}{\numberline {3.4.1}Grenzen der digitalen Stadtentwicklung}{11}{subsubsection.47}%
+\contentsline {subsubsection}{\numberline {3.4.2}Risiken der digitalen Stadtentwicklung}{11}{subsubsection.48}%
+\contentsline {subsubsection}{\numberline {3.4.3}Ethische Aspekte der digitalen Stadtentwicklung}{11}{subsubsection.49}%
+\contentsline {section}{\numberline {4}Digitale Transformation als Lösung für urbane Herausforderungen}{11}{section.50}%
+\contentsline {subsection}{\numberline {4.1}Fallstudien und Praxisbeispiele}{11}{subsection.51}%
+\contentsline {subsubsection}{\numberline {4.1.1}Smart Mobility in Kopenhagen, Dänemark}{11}{subsubsection.52}%
+\contentsline {subsubsection}{\numberline {4.1.2}Nachhaltige Energieversorgung in Amsterdam}{12}{subsubsection.53}%
+\contentsline {subsubsection}{\numberline {4.1.3}Digitales Abfallmanagement in Seoul, Südkorea}{12}{subsubsection.54}%
+\contentsline {subsubsection}{\numberline {4.1.4}Digitales Gesundheitswesen in Toronto, Kanada}{12}{subsubsection.55}%
+\contentsline {subsection}{\numberline {4.2}E-Government in Tallinn, Estland}{13}{subsection.56}%
+\contentsline {subsection}{\numberline {4.3}Umweltüberwachung in Singapur}{13}{subsection.57}%
+\contentsline {subsection}{\numberline {4.4}Cybersecurity in New York City, USA}{13}{subsection.58}%
+\contentsline {subsection}{\numberline {4.5}Zukunftsperspektiven: Die Stadt der Zukunft}{13}{subsection.59}%
+\contentsline {section}{Abkürzungen}{14}{section*.60}%
+\contentsline {section}{Literatur}{14}{section*.60}%
