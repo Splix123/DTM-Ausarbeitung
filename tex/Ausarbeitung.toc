@@ -47,9 +47,9 @@
 \contentsline {subsubsection}{\numberline {4.1.2}Nachhaltige Energieversorgung in Amsterdam}{12}{subsubsection.53}%
 \contentsline {subsubsection}{\numberline {4.1.3}Digitales Abfallmanagement in Seoul, Südkorea}{12}{subsubsection.54}%
 \contentsline {subsubsection}{\numberline {4.1.4}Digitales Gesundheitswesen in Toronto, Kanada}{12}{subsubsection.55}%
-\contentsline {subsection}{\numberline {4.2}E-Government in Tallinn, Estland}{13}{subsection.56}%
-\contentsline {subsection}{\numberline {4.3}Umweltüberwachung in Singapur}{13}{subsection.57}%
-\contentsline {subsection}{\numberline {4.4}Cybersecurity in New York City, USA}{13}{subsection.58}%
-\contentsline {subsection}{\numberline {4.5}Zukunftsperspektiven: Die Stadt der Zukunft}{13}{subsection.59}%
+\contentsline {subsubsection}{\numberline {4.1.5}E-Government in Tallinn, Estland}{13}{subsubsection.56}%
+\contentsline {subsubsection}{\numberline {4.1.6}Umweltüberwachung in Singapur}{13}{subsubsection.57}%
+\contentsline {subsubsection}{\numberline {4.1.7}Cybersecurity in New York City, USA}{13}{subsubsection.58}%
+\contentsline {subsection}{\numberline {4.2}Zukunftsperspektiven: Die Stadt der Zukunft}{13}{subsection.59}%
 \contentsline {section}{Abkürzungen}{14}{section*.60}%
 \contentsline {section}{Literatur}{14}{section*.60}%
